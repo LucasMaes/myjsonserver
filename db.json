@@ -28,7 +28,8 @@
       "obe_transmissieverlies":"0.00",
       "obe_ventilatieverlies":"0.00",
       "obe_opstartverlies":"0.00",
-      "obe_totaal_warmteverlies":"0.00"}
+      "obe_totaal_warmteverlies":"0.00"
+    }
   ],
   "profile": {
     "name": "typicode"
