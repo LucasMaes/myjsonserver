@@ -5,6 +5,30 @@
       "title": "hello"
     }
   ],
+  "results": [
+    {
+      "obn_transmissieverlies":"0.00",
+      "obn_ventilatieverlies":"1.32",
+      "obn_opstartverlies":"0.25",
+      "obn_totaal_warmteverlies":"1.57",
+      "00_obv_gekend_verbruik_aardgas_eenheid_cijfer":"",
+      "00_verbruik_aardgas":"",
+      "00_verbruik_stookolie":0,
+      "00_rendement_ketel":95,
+      "00_obv_type_opwekker":"obv_option_aardgasketel",
+      "00_obv_type_ketel":"obv_option_condenserend",
+      "obv_rendement_ketel":"95",
+      "obv_verbruikte_energie":"0",
+      "obv_aantal_draaiuren_opwekker":"1686",
+      "obv_nodig_vermogen":"0.00",
+      "obv_nodig_vermogen_plus_10_procent_marge":"0.00",
+      "obe_transmissieverlies_factor":"0.00",
+      "obe_ventilatieverlies_factor":"0.00",
+      "obe_transmissieverlies":"0.00",
+      "obe_ventilatieverlies":"0.00",
+      "obe_opstartverlies":"0.00",
+      "obe_totaal_warmteverlies":"0.00"}
+  ],
   "profile": {
     "name": "typicode"
   }
