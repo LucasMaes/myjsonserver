@@ -31,6 +31,11 @@
       "obe_totaal_warmteverlies":"0.00"
     }
   ],
+  "temperature" :
+  {
+    "minTemperature" : -8,
+    "avgTemperature" : 10
+  },
   "profile": {
     "name": "typicode"
   }
