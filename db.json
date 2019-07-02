@@ -33,7 +33,7 @@
   ],
   "temperature" :
   {
-    "minTemperature" : -8,
+    "minTemperature" : -5,
     "avgTemperature" : 10
   },
   "profile": {
